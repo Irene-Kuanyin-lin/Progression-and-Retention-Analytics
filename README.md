@@ -42,12 +42,14 @@ Source student data is not included with this README. Access and redistribution 
 - Compared unit failure rates and total failure counts.
 - Examined repeated failures and progression barriers across course levels.
 - Used course and year filters to support cohort-specific exploration.
+![Dashboard 1: Curriculum Barrier Analysis](Screenshot%20of%20Dashboard%201%20Curriculum%20Barrier%20Analysis.jpg)
 
 **Dashboard 2 — Student Attrition and Risk Behaviour**
 
 - Compared completion, retention and dropout patterns.
 - Explored associations between attrition, study load, academic performance and demographic characteristics.
 - Supported course-level comparison and identification of cohorts requiring further investigation.
+![Dashboard 2: Student Attrition and Risk Behaviour](Screenshot%20of%20Dashboard%202%20Student%20Attrition%20and%20Risk%20Behaviour.jpg)
 
 ### 3. Predictive Modelling
 
