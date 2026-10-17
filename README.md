@@ -87,4 +87,4 @@ The project proposed these actions; it did not measure the effect of implemented
 
 ## 📂 Project Materials
 
-The client report documents two Power BI dashboards and a data-preparation/predictive-modelling notebook. This README is based on the report; the underlying code and dashboard files have not been independently executed or validated here.
+The client report documents [View the Full Client Report (PDF)](BUSA8031%20Client%20Report.pdf) two Power BI dashboards and a data-preparation/predictive-modelling notebook. This README is based on the report; the underlying code and dashboard files have not been independently executed or validated here.
