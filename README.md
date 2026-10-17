@@ -49,6 +49,7 @@ Source student data is not included with this README. Access and redistribution 
 - Compared completion, retention and dropout patterns.
 - Explored associations between attrition, study load, academic performance and demographic characteristics.
 - Supported course-level comparison and identification of cohorts requiring further investigation.
+[Download Dashboard 1 – Curriculum Barrier Analysis (Power BI)](Dashboard%201%20Curriculum%20Barrier%20Analysis.pbix)
 ![Dashboard 2: Student Attrition and Risk Behaviour](Screenshot%20of%20Dashboard%202%20Student%20Attrition%20and%20Risk%20Behaviour.jpg)
 
 ### 3. Predictive Modelling
@@ -87,4 +88,4 @@ The project proposed these actions; it did not measure the effect of implemented
 
 ## 📂 Project Materials
 
-The client report documents [View the Full Client Report (PDF)](BUSA8031%20Client%20Report.pdf) two Power BI dashboards and a data-preparation/predictive-modelling notebook. This README is based on the report; the underlying code and dashboard files have not been independently executed or validated here.
+The client report documents [View the Full Client Report (PDF)](BUSA8031%20Client%20Report.pdf) two Power BI dashboards [Download Dashboard 1 – Curriculum Barrier Analysis (Power BI)](Dashboard%201%20Curriculum%20Barrier%20Analysis.pbix) [Download Dashboard 2 – Student Attrition and Risk Behaviour (Power BI)](Dashboard%202%20Student%20Attrition%20and%20Risk%20Behaviour.pbix) and a data-preparation/predictive-modelling notebook. This README is based on the report; the underlying code and dashboard files have not been independently executed or validated here.
